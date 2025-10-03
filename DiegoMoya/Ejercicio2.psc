@@ -4,7 +4,7 @@ Algoritmo Juego_Homer
     Definir i, j Como Entero
     Definir filaAnterior, columnaAnterior Como Entero
 	
-    // Inicializar tablero con 'X'
+    // Iniciar tablero con 'X'
     Para i = 1 Hasta 10 Con Paso 1 Hacer
         Para j = 1 Hasta 10 Con Paso 1 Hacer
             tablero[i,j] = 'X'
